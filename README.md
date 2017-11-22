@@ -1,8 +1,8 @@
 # PHYS220 CW 11 
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Riley and Nikki**
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-11-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-11-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-11-riley-nikki.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-11-riley-niki)
 
 ## Specification
 
@@ -57,9 +57,7 @@ In practice, the 4th-order Runge-Kutta method is the most popular method for sol
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
-
-**CHANGEME**
+It helped to draw out the ODEs on paper to understand visually what is going on.  I am not fully confident with the 4th order Runge-Kutta method, however, and I am unsure why exactly the middle increments are more heavily weighted than the K1 and K4 increments.  
 
 ## Honor Pledge
 
@@ -70,4 +68,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Riley and Nikki**
